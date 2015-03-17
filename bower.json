@@ -1,0 +1,19 @@
+{
+  "name": "cdn",
+  "version": "0.0.0",
+  "homepage": "https://github.com/curran/cdn",
+  "authors": [
+    "curran <curran.kelleher@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "model-v0.2.0": "model#~0.2.0"
+  }
+}
