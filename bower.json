@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "model-v0.2.0": "model#~0.2.0"
+    "model-v0.2.0": "model#~0.2.0",
+    "inlet": "https://github.com/enjalot/Inlet.git"
   }
 }
