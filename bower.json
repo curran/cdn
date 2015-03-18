@@ -6,16 +6,11 @@
     "curran <curran.kelleher@gmail.com>"
   ],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
+  "ignore": [ ],
   "dependencies": {
     "model-v0.2.0": "model#~0.2.0",
     "codemirror-v5.0.0": "codemirror#~5.0.0",
-    "inlet": "https://github.com/enjalot/Inlet.git"
+    "inlet": "https://github.com/enjalot/Inlet.git",
+    "requirejs-v2.1.16": "requirejs#~2.1.16"
   }
 }
