@@ -1,0 +1,32 @@
+{
+  "name": "visEditor",
+  "version": "0.1.2",
+  "homepage": "https://github.com/curran/visEditor",
+  "authors": [
+    "Curran <curran.kelleher@gmail.com>"
+  ],
+  "description": "A pluggable interactive visualization runtime environment.",
+  "license": "MIT",
+  "ignore": [
+    "LICENSE",
+    "README.md",
+    "bower.json",
+    "server",
+    "client/docs",
+    "client/gulpfile.js",
+    "client/node_modules",
+    "client/package.json",
+    "client/tests",
+    "client/visConfig.json"
+  ],
+  "dependencies": {},
+  "_release": "0.1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.2",
+    "commit": "9db6117fbf0f470f3fa2aa956de2b3359f8328d7"
+  },
+  "_source": "git://github.com/curran/chiasm.git",
+  "_target": "~0.1.2",
+  "_originalSource": "chiasm"
+}
