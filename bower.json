@@ -10,7 +10,7 @@
   "dependencies": {
     "model-v0.2.0": "model#~0.2.0",
     "chiasm-v0.1.2": "chiasm#~0.1.2",
-    "chiasm-v0.1.3": "chiasm#~0.1.3",
+    "chiasm-v0.1.4": "chiasm#~0.1.4",
     "codemirror-v5.0.0": "codemirror#~5.0.0",
     "inlet": "https://github.com/enjalot/Inlet.git",
     "requirejs-v2.1.16": "requirejs#~2.1.16",
