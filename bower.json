@@ -9,6 +9,7 @@
   "ignore": [],
   "dependencies": {
     "model-v0.2.0": "model#~0.2.0",
+    "model-v0.2.1": "model#~0.2.1",
     "chiasm-v0.1.2": "chiasm#~0.1.2",
     "chiasm-v0.1.4": "chiasm#~0.1.4",
     "codemirror-v5.0.0": "codemirror#~5.0.0",
