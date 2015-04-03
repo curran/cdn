@@ -1,0 +1,31 @@
+{
+  "name": "chiasm",
+  "version": "0.1.6",
+  "homepage": "https://github.com/curran/chiasm",
+  "authors": [
+    "curran <curran.kelleher@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "model": "~0.2.1",
+    "lodash": "~3.5.0",
+    "async": "~0.9.2",
+    "d3": "~3.5.5"
+  },
+  "_release": "0.1.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.6",
+    "commit": "604b1e20122f4499cec5a3211e5928d60304dfc9"
+  },
+  "_source": "git://github.com/curran/chiasm.git",
+  "_target": "~0.1.6",
+  "_originalSource": "chiasm"
+}

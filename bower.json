@@ -12,6 +12,7 @@
     "model-v0.2.1": "model#~0.2.1",
     "chiasm-v0.1.2": "chiasm#~0.1.2",
     "chiasm-v0.1.4": "chiasm#~0.1.4",
+    "chiasm-v0.1.6": "chiasm#~0.1.6",
     "codemirror-v5.0.0": "codemirror#~5.0.0",
     "inlet": "https://github.com/enjalot/Inlet.git",
     "requirejs-v2.1.16": "requirejs#~2.1.16",
